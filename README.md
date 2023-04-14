@@ -29,5 +29,7 @@ Surrey Audio-Visual Expressed Emotion (Savee) - https://www.kaggle.com/datasets/
 
 Toronto emotional speech set (Tess) - https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 
+
 ## Results
-![alt text](https://github.com/AkshayMetry/speech-emotion-detection-using-cnn/img.png?raw=true)
+
+https://github.com/AkshayMetry/speech-emotion-detection-using-cnn/img.png
