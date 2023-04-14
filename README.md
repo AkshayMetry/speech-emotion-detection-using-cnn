@@ -28,8 +28,3 @@ Ryerson Audio-Visual Database of Emotional Speech and Song (Ravdess) - https://w
 Surrey Audio-Visual Expressed Emotion (Savee) - https://www.kaggle.com/datasets/barelydedicated/savee-database
 
 Toronto emotional speech set (Tess) - https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
-
-
-## Results
-
-![alt text][https://github.com/AkshayMetry/speech-emotion-detection-using-cnn/img.png](https://github.com/AkshayMetry/speech-emotion-detection-using-cnn/blob/main/img.png)
