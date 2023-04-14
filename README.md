@@ -32,4 +32,4 @@ Toronto emotional speech set (Tess) - https://www.kaggle.com/datasets/ejlok1/tor
 
 ## Results
 
-[https://github.com/AkshayMetry/speech-emotion-detection-using-cnn/img.png](https://github.com/AkshayMetry/speech-emotion-detection-using-cnn/blob/main/img.png)
+![alt text][https://github.com/AkshayMetry/speech-emotion-detection-using-cnn/img.png](https://github.com/AkshayMetry/speech-emotion-detection-using-cnn/blob/main/img.png)
